@@ -1,4 +1,3 @@
-Please Download the .zip on Code.
-Then unpack the .zip and open the File "Fullscreensite.bat" in a Code editor.
-Change https://github.com to your Website.
-Then Start "Fullscreensite.bat" and after 10 secounds the Site is in Fullscreen.
+Bitte in Releases die .bat und .vbs Datei herunterladen und in einen Ordner packen.
+Zum start die .bat datei editieren (Und die Adresse ändern) und danach ausführen.
+Es sollte funktionieren.
