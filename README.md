@@ -1,6 +1,6 @@
 ## Installation
 PowerShell starten (nicht als Administrator) 
-```powershell
+```terminal
 cd \name\des\Spiecherpfades\von\Fullscreensite
 ```
 ## Vorbereitng
