@@ -1,7 +1,7 @@
 ## Installation
-PowerShell starten (nicht als Administrator) und die Zwei Befehle ausführen. `\name\des\Spiecherpfades\von\Fullscreensite` mit dem tatsächlichen Pfad austachuschen
+PowerShell starten (nicht als Administrator) und die Zwei Befehle ausführen. `\Spiecherpfad\von\Fullscreensite` mit dem tatsächlichen Pfad austachuschen
 ```powershell
-cd \name\des\Spiecherpfades\von\Fullscreensite
+cd \Spiecherpfad\von\Fullscreensite
 wget https://raw.githubusercontent.com/deutschich/WinFullscreenSite/main/Fullscreensite.bat && wget https://raw.githubusercontent.com/deutschich/WinFullscreenSite/main/F11.vbs
 ```
 ## Vorbereitng
